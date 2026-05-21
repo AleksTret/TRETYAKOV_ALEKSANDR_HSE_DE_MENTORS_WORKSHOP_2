@@ -836,3 +836,26 @@ postgresql://admin:admin@postgres_db:5432/oil_db
 
 <img src="./assets/2026-05-19 102504.jpg" width="700">
 
+Создадим дашборды
+
+Line chart - Добыча по дням
+<img src="./assets/2026-05-21 154722.jpg" width="700">
+
+Bar chart - Топ скважин по добыче
+<img src="./assets/2026-05-21 155315.jpg" width="700">
+
+Heatmap - Давление vs Дебит
+
+<img src="./assets/2026-05-21 155944.jpg" width="700">
+
+Bar chart - Delay vs Weather
+
+<img src="./assets/2026-05-21 161823.jpg" width="700">
+
+Scatter Plot (точечный график) -  Cost vs Distance
+
+<img src="./assets/2026-05-21 162047.jpg" width="700">
+
+Bar Chart (группированный) - KPI по водителям
+
+<img src="./assets/2026-05-21 162240.jpg" width="700">
