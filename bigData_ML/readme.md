@@ -862,3 +862,7 @@ Scatter Plot (точечный график) -  Cost vs Distance
 Bar Chart (группированный) - KPI по водителям
 
 <img src="./assets/2026-05-21 162240.jpg" width="700">
+
+Общий список созданных chart
+
+<img src="./assets/2026-05-21 163546.jpg" width="700">
