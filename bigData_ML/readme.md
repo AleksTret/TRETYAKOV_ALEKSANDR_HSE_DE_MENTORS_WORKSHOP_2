@@ -839,10 +839,13 @@ postgresql://admin:admin@postgres_db:5432/oil_db
 Создадим дашборды
 
 Line chart - Добыча по дням
+
 <img src="./assets/2026-05-21 154722.jpg" width="700">
 
 Bar chart - Топ скважин по добыче
+
 <img src="./assets/2026-05-21 155315.jpg" width="700">
+
 
 Heatmap - Давление vs Дебит
 
